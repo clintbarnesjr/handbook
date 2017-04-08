@@ -4,7 +4,7 @@ Pinpoint is committed to building an internship program that is extremely valuab
 
 A Tour of Duty is a finite commmitment with clear and specific benefits and success outcomes for both you and Pinpoint. With this framework, we will clearly identify projects and deliverables that you produce for Pinpoint. Your work on these items will broaden and/or deepen your skillset, making you a more marketable employee at the end of your tour. 
 
-In order to design an effective Tour of Duty for you and Pinpoint, you will be required to meet with your manager before the beginning of your internship. During this meeting, you and your manager will discuss the Tour of Duty Questionnaire. You will both candidly share your goals for your time with Pinpoint through the use of the provided questions.
+In order to design an effective Tour of Duty for you and Pinpoint, you will be required to meet with your manager before the beginning of your internship. During this meeting, you and your manager will discuss the Statement of Alliance. You will both candidly share your goals for your time with Pinpoint through the use of this document.
 
 Once your tour starts, you will have a structured weekly meeting during which you will evaluate your progress against your deliverables. This time will provide you with the opportunity to both celebrate your progress and express any concerns you may have. This is also an appropriate time to modify goals as necessary and discuss future tours, if appropriate.
 
