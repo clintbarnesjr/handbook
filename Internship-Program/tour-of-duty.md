@@ -3,6 +3,7 @@
 At Pinpoint, we have a passion for investing in others. As such, are building an industry leading internship program.
 
 Three core values have guided the development of our internship:
+<<<<<<< HEAD
 1. Access - You will have consistent access to our founders and other top-tier professionals.
 1. Artifacts - You will create a high quality artifact or participant in the development/shipment of a product.
 1. Investment - We will invest in you! You will learn valuable skills and lessons working with our team. We believe we will gain implicitly through this process
