@@ -10,7 +10,11 @@ Three core values have guided the development of our internship:
 1. Artifacts - You will create a high quality artifact or participate in the development/shipment of a product.
 1. Investment - We will invest in you! You will learn valuable skills and lessons working with our team. We believe we will gain implicitly through this process.
 
-![The Alliance](https://goo.gl/images/9GV18M)
+<p align="center">
+  <img src="http://www.theallianceframework.com/uploads/7/8/2/9/7829688/_9898999_orig.png"/>
+</p>
+
+![The Alliance](http://www.theallianceframework.com/uploads/7/8/2/9/7829688/_9898999_orig.png)
 
 In order to execute on these values, we have adopted a rotational Tour of Duty framework from [The Alliance](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773) (Hoffman, Casnocha, Yeh). This will be a structured, 30-day internship with very clear goals and objectives for both you and Pinpoint. The Alliance framework will help us create trust and mutual engagement through performing on the key elements of your internship:
 
