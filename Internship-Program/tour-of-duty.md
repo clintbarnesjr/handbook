@@ -28,26 +28,26 @@ In order to execute on these values, we have adopted a rotational Tour of Duty f
 ## Tour of Duty Structure
 
 1. The week preceding your internship - 
-	*Read The Alliance. This will help you better understand the Tour of Duty Structure. Pinpoint will provide a copy.
+	* Read The Alliance. This will help you better understand the Tour of Duty Structure. Pinpoint will provide a copy.
 	* Create a Github account and familiarize yourself with it. GitHub is Pinpoint's system of record and it is critical that you have some knowledge of it. Github provides great tutorials [here](https://guides.github.com/). 
-	*Have a preliminary conversation with your manager to develop expectations for your time with us.
+	* Have a preliminary conversation with your manager to develop expectations for your time with us.
 1. Monday/Week One
-	*Introductions - Meet with your manager, at least one of our founders, and other team members.  
-	*Company and culture orientation.
-	*Complete Tour of Duty Questionnaire with manager and establish your goals for your month-long internship.
+	* Introductions - Meet with your manager, at least one of our founders, and other team members.  
+	* Company and culture orientation.
+	* Complete Tour of Duty Questionnaire with manager and establish your goals for your month-long internship.
 1. Monday/Week Two
-	*Status update. Review your internship thus far and assess your progress with manager.
+	* Status update. Review your internship thus far and assess your progress with manager.
 1. Monday/Week Three
-	*Status update. Review your internship thus far and assess your progress with manager.
+	* Status update. Review your internship thus far and assess your progress with manager.
 1. Monday/Fourth Week 
-	*Presentation preparation. Deliverables should be nearly complete. Review with manager and make any necessary tweaks to prepare for presentation/delevery.
-	*Discuss transition with your manager. If both parties are happy with your tour, this is a great time to discuss a follow up tour if you feel it would be beneficial.
-	*If you worked on a project that requires implementation, the implementation should happen this week with a handoff, if necessary.
+	* Presentation preparation. Deliverables should be nearly complete. Review with manager and make any necessary tweaks to prepare for presentation/delevery.
+	* Discuss transition with your manager. If both parties are happy with your tour, this is a great time to discuss a follow up tour if you feel it would be beneficial.
+	* If you worked on a project that requires implementation, the implementation should happen this week with a handoff, if necessary.
 1. Friday/Fourth Week 
-	*Present your work to the team. Talk about your process, what you created, and how it will benefit you and the company. 
+	* Present your work to the team. Talk about your process, what you created, and how it will benefit you and the company. 
 1. Monday-Tuesday/Fifth Week
-	*Wind down - If there is any follow up needed on your presentation/implementation, take care of it.
-	*Final assessment - You will receive feedback concerning your work and progress. We will also ask you to honestly assess your time with Pinpoint. 
+	* Wind down - If there is any follow up needed on your presentation/implementation, take care of it.
+	* Final assessment - You will receive feedback concerning your work and progress. We will also ask you to honestly assess your time with Pinpoint. 
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-l4oQdQ74jYY/WPfScfZJ_1I/AAAAAAAAHUg/CtG1BJ4iX8IymGnznTmS3tcWYiH2tfc7QCLcB/s1600/Screen%2BShot%2B2017-04-19%2Bat%2B2.03.40%2BPM.png"/<br>
