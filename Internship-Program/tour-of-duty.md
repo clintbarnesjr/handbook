@@ -1,8 +1,8 @@
 # Tours of Duty
 
 <p align="center">
-  <img src="http://next-episode.net/tv-shows-images/big/tour-of-duty.jpg"/>
-  <b>This Could Be You!:</b><br>
+  <img src="http://next-episode.net/tv-shows-images/big/tour-of-duty.jpg"/<br>
+  <This Could Be You!>
 </p>
 
 At Pinpoint, we have a passion for investing in others. Because this passion is so central to who we are, we are building an industry leading internship program.
@@ -14,8 +14,8 @@ Three core values have guided the development of our internship:
 1. Investment - We will invest in you! You will learn valuable skills and lessons working with our team. We believe we will gain implicitly through this process.
 
 <p align="center">
-  <img src="http://www.theallianceframework.com/uploads/7/8/2/9/7829688/_9898999_orig.png"/>
-  <b>The Alliance:</b><br>
+  <img src="http://www.theallianceframework.com/uploads/7/8/2/9/7829688/_9898999_orig.png"/<br>
+  <The Alliance>
 </p>
 
 In order to execute on these values, we have adopted a rotational Tour of Duty framework from [The Alliance](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773) (Hoffman, Casnocha, Yeh). This will be a structured, 30-day internship with very clear goals and objectives for both you and Pinpoint. The Alliance framework will help us create trust and mutual engagement through performing on the key elements of your internship:
@@ -50,8 +50,8 @@ In order to execute on these values, we have adopted a rotational Tour of Duty f
 	*Final assessment - You will receive feedback concerning your work and progress. We will also ask you to honestly assess your time with Pinpoint. 
 
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-l4oQdQ74jYY/WPfScfZJ_1I/AAAAAAAAHUg/CtG1BJ4iX8IymGnznTmS3tcWYiH2tfc7QCLcB/s1600/Screen%2BShot%2B2017-04-19%2Bat%2B2.03.40%2BPM.png"/>
-  <b>Sample Internship Calendar:</b><br>
+  <img src="https://1.bp.blogspot.com/-l4oQdQ74jYY/WPfScfZJ_1I/AAAAAAAAHUg/CtG1BJ4iX8IymGnznTmS3tcWYiH2tfc7QCLcB/s1600/Screen%2BShot%2B2017-04-19%2Bat%2B2.03.40%2BPM.png"/<br>
+  <Sample Internship Calendar>
 </p>
 
 
