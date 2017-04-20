@@ -27,7 +27,7 @@ In order to execute on these values, we have adopted a rotational Tour of Duty f
 
 ## Tour of Duty Structure
 
-1. The week preceding your internship - 
+1. The week preceding your internship 
 	* Read The Alliance. This will help you better understand the Tour of Duty Structure. Pinpoint will provide a copy.
 	* Create a Github account and familiarize yourself with it. GitHub is Pinpoint's system of record and it is critical that you have some knowledge of it. Github provides great tutorials [here](https://guides.github.com/). 
 	* Have a preliminary conversation with your manager to develop expectations for your time with us.
