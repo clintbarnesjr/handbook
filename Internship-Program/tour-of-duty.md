@@ -31,23 +31,30 @@ In order to execute on these values, we have adopted a rotational Tour of Duty f
 	* Read The Alliance. This will help you better understand the Tour of Duty Structure. Pinpoint will provide a copy.
 	* Create a Github account and familiarize yourself with it. GitHub is Pinpoint's system of record and it is critical that you have some knowledge of it. Github provides great tutorials [here](https://guides.github.com/). 
 	* Have a preliminary conversation with your manager to develop expectations for your time with us.
+	* Review internship FAQ doc on GitHub to learn more about internship, add any additional questions you have, this will be periodically reviewed by Pinpoint leadership.
+	* Complete the self-guided portions of the mission alignment document.
 1. Monday/Week One
 	* Introductions - Meet with your manager, at least one of our founders, and other team members.  
 	* Company and culture orientation.
-	* Complete Tour of Duty Questionnaire with manager and establish your goals for your month-long internship.
+	* Complete the mission alignment document with manager and establish your goals for your month-long internship.
+	* Complete the statement of alliance document with your manager.
 1. Monday/Week Two
 	* Status update. Review your internship thus far and assess your progress with manager.
 1. Monday/Week Three
 	* Status update. Review your internship thus far and assess your progress with manager.
+	* Tour renewal discussion. Discuss with you manager whether you will stay with Pinpoint for another tour of duty. It must be decided that it is mutually beneficial to both parties to transition into another tour. If you stay for another tour, what will it look like? Will you begin a new project or continue the current one?
+	* Begin to gameplan transition of the project you have worked on if you will not be continuing with Pinpoint. Is it complete? What information is necessary for the person or team to whom it will be handed off? 
 1. Monday/Fourth Week 
-	* Presentation preparation. Deliverables should be nearly complete. Review with manager and make any necessary tweaks to prepare for presentation/delevery.
-	* Discuss transition with your manager. If both parties are happy with your tour, this is a great time to discuss a follow up tour if you feel it would be beneficial.
+	* Presentation preparation. Later this week, you will be making a presentation to the team on what you accomplished with Pinpoint. Deliverables should be nearly complete. Review with manager and make any necessary tweaks to prepare for presentation/delivery. Talk about your process, what you created, and how it will benefit you and the company. 
+	* If you will be staying on for another tour, review the purpose of this tour and solidify your goals with your manager.
 	* If you worked on a project that requires implementation, the implementation should happen this week with a handoff, if necessary.
 1. Friday/Fourth Week 
-	* Present your work to the team. Talk about your process, what you created, and how it will benefit you and the company. 
+	* Present your work to the team. 
 1. Monday-Tuesday/Fifth Week
 	* Wind down - If there is any follow up needed on your presentation/implementation, take care of it.
-	* Final assessment - You will receive feedback concerning your work and progress. We will also ask you to honestly assess your time with Pinpoint. 
+	* Answer any of your own FAQ questions for which you have identified answers, ask any new questions you still have unanswered.
+	* Final assessment - If this is your last tour, you will receive feedback concerning your work and progress. 
+	* Final assesment of Pinpoint - We will also ask you to honestly assess your time with Pinpoint. Did you feel that your manager and other leadership served you well? What did you learn from your tour? Will what you learned benefit you in your career? What is your overall take on company culture?
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-l4oQdQ74jYY/WPfScfZJ_1I/AAAAAAAAHUg/CtG1BJ4iX8IymGnznTmS3tcWYiH2tfc7QCLcB/s1600/Screen%2BShot%2B2017-04-19%2Bat%2B2.03.40%2BPM.png"/<br>
